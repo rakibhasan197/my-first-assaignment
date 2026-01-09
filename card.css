@@ -26,13 +26,14 @@
 
 }
 .card:hover{
-  background-color: aquamarine;
+  background-color:aqua;
 }
 .card p{
   color: #627382;
   font-size: 16px;
   font-weight: 400;
   text-align: center;
+  padding-bottom: 50px;
 }
 .main-container{
  display: flex;
