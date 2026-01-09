@@ -6,6 +6,7 @@
 .card-container{
   display: flex;
   gap: 24px;
+  margin-top: 25px;
 }
 
 .card{
